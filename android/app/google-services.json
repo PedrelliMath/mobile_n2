@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426090831933",
+    "project_id": "mobilen2-c7dab",
+    "storage_bucket": "mobilen2-c7dab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426090831933:android:efa28e2b91e720e9e48a54",
+        "android_client_info": {
+          "package_name": "com.example.mobile_n2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3SW3JlziWT-w_Zh0bypv4_Q9bynCfTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
